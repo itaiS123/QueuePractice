@@ -1,0 +1,10 @@
+C:\New folder\c#\practice_queue\practice_queue\bin\Debug\practice_queue.exe.config
+C:\New folder\c#\practice_queue\practice_queue\bin\Debug\practice_queue.exe
+C:\New folder\c#\practice_queue\practice_queue\bin\Debug\practice_queue.pdb
+C:\New folder\c#\practice_queue\practice_queue\obj\Debug\practice_queue.csproj.AssemblyReference.cache
+C:\New folder\c#\practice_queue\practice_queue\obj\Debug\practice_queue.csproj.SuggestedBindingRedirects.cache
+C:\New folder\c#\practice_queue\practice_queue\obj\Debug\practice_queue.csproj.CoreCompileInputs.cache
+C:\New folder\c#\practice_queue\practice_queue\obj\Debug\practice_queue.csproj.CopyComplete
+C:\New folder\c#\practice_queue\practice_queue\obj\Debug\practice_queue.exe
+C:\New folder\c#\practice_queue\practice_queue\obj\Debug\practice_queue.pdb
+C:\New folder\c#\practice_queue\practice_queue\bin\Debug\Unit4.dll
